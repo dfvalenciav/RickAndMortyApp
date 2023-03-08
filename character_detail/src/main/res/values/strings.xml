@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_ingredients">Personajes</string>
+    <string name="title_instructions">Episodios</string>
+    <string name="btn_text_show_map">Ver Mapa</string>
+</resources>
